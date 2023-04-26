@@ -16,10 +16,10 @@ Step 4: If the key matches, return the index. Otherwise, increment i by 1.
 
 When to use Linear Search?
 
-When we are dealing with a small dataset.
+1. When we are dealing with a small dataset.
 
-When you need to find an exact value.
+2. When you need to find an exact value.
 
-When you are searching a dataset stored in contiguous memory.
+3. When you are searching a dataset stored in contiguous memory.
 
-When you want to implement a simple algorithm.
+4. When you want to implement a simple algorithm.
